@@ -1,7 +1,7 @@
 Vedanta Barooah
 ===============
 
-barooah.vedanta@gmail.com | +1.408.504.8575 | http://www.linkedin.com/in/vedanta*
+barooah.vedanta@gmail.com | +1.408.504.8575 | http://www.linkedin.com/in/vedanta
 
 Summary
 -------
@@ -31,56 +31,29 @@ Skill Areas
 -----------
 
 -   Enterprise and Solution Architecture
-
 -   Systems and Infrastructure
-
 -   Systems and Performance
-
 -   Systems and Network Administration
-
 -   Clustering
-
 -   High Availability and Parallel Processing
-
 -   Virtualization and Infrastructure Consolidation
-
 -   Software Builds and Packaging
-
 -   Update and Patch Management
-
 -   Configuration Management
-
 -   Web and Application Development
-
 -   OS Life Cycle Management
-
 -   Systems and Network Monitoring
-
 -   System Management
-
 -   Application Monitoring/Management
-
 -   Enterprise Web Platforms
-
 -   Enterprise Directories
-
 -   Datacenter Rollout
-
 -   Hadoop and Big Data
-
 -   Automation, CI/CD and DevOps
-
 -   Public, Private and Hybrid Cloud
-
 -   Product Engineering and Management
-
 -   Open Source Technologies and Standards
-
 -   Open Source Governance
-
-|   |
-|---|
-
 
 Experience
 ----------
